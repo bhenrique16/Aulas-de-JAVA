@@ -1,2 +1,11 @@
 
-L	java:S106"+Replace this use of System.out by a logger.(ùÄûšşÿÿÿÿ8è‘õñ1
+r	java:S106	"+Replace this use of System.out by a logger.(µÏ…èùÿÿÿÿ8¸³Ê¿ñ1J$5e7c50d1-12ad-45f8-85e1-b1eaf3fce795
+m	java:S106
+"+Replace this use of System.out by a logger.(†•´ˆ8¼³Ê¿ñ1J$51dae164-9423-4e8f-a350-bb3b3340e98c
+m	java:S106"+Replace this use of System.out by a logger.(ØÛà‘8½³Ê¿ñ1J$6e0cd2a0-91f6-4bda-a57f-a37612198af1
+m	java:S106"+Replace this use of System.out by a logger.(ØÛà‘8¿³Ê¿ñ1J$b29f7d12-e8d2-404a-817e-9822af24f056
+r	java:S106"+Replace this use of System.out by a logger.(±â¯©şÿÿÿÿ8Â³Ê¿ñ1J$947fab2b-29d9-48c4-bdea-b3955861ffc1
+\
+java:S3457"2nd argument is not used.(ø¤ã¡8Å³Ê¿ñ1J$b1717a18-4fbb-48f5-83f1-52b67666925f
+m	java:S106"+Replace this use of System.out by a logger.(ø¤ã¡8Æ³Ê¿ñ1J$67c6d12c-8b7d-41e8-870c-281e1d75427c
+r	java:S106"+Replace this use of System.out by a logger.(µ—¢½ûÿÿÿÿ8È³Ê¿ñ1J$34757581-d53b-4eaf-82ab-466101b49b16
