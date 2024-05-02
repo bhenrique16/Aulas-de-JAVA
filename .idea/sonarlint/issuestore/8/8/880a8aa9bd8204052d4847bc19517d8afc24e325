@@ -1,0 +1,16 @@
+
+~
+java:S1854";Remove this useless assignment to local variable "codigo2".(·ŠíË8„ĞùŠó1J$1afe8f75-c171-4cb9-9c6a-b8d7fec16692
+~
+java:S1854";Remove this useless assignment to local variable "codigo1".(ï“Úß8„ĞùŠó1J$883fff4a-110e-453c-b344-e41ef690538a
+‡
+java:S1659"DDeclare "numero1" and all following declarations on a separate line.(³…ƒí8†ĞùŠó1J$696570cd-246a-4083-9a65-46a2f0245cb5
+
+java:S1659	"KDeclare "valorUnitario1" and all following declarations on a separate line.(²ÅÀÃ8†ĞùŠó1J$363aa3e8-b73b-4241-8ffb-0c149733d529
+o
+java:S1481",Remove this unused "codigo1" local variable.(³…ƒí8‰ĞùŠó1J$4a3aa1ec-bd04-49ca-ad5b-607d13b6d19c
+o
+java:S1481",Remove this unused "codigo2" local variable.(³…ƒí8‰ĞùŠó1J$c4f55f97-f536-4b38-8b8c-3bdc40e3bb73
+r	java:S106"+Replace this use of System.out by a logger.(ğ¦·—úÿÿÿÿ8ĞùŠó1J$00fd5157-df11-45da-8b79-d1f13c34fb93
+O
+java:S1128"-Remove this unused import 'java.util.Locale'.(åğ×±ûÿÿÿÿ8ÅûùŠó1

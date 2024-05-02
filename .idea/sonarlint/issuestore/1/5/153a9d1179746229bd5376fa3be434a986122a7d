@@ -1,0 +1,11 @@
+
+~
+java:S1854"6Remove this useless assignment to local variable "s1".( ö©şúÿÿÿÿ8ÌùÚŞò1J$68dcc374-abe5-4c00-8600-c0feeb975923
+‚
+java:S1659	"?Declare "s2" and all following declarations on a separate line.(©¢Ñß8ÒùÚŞò1J$63f35a71-9b77-4654-b074-9ab044048445
+j
+java:S1481	"'Remove this unused "s1" local variable.(©¢Ñß8ÔùÚŞò1J$55ef63e1-9391-43fe-a8d1-539ef978afe4
+m	java:S106"+Replace this use of System.out by a logger.(Úè‡ê8ÖùÚŞò1J$b3a368fd-9097-4d0c-ab25-f664b03da03f
+r	java:S106"+Replace this use of System.out by a logger.(µÏ…èùÿÿÿÿ8ÖùÚŞò1J$f3c38382-aa28-4342-970a-1b205408c95c
+l	java:S106"+Replace this use of System.out by a logger.(œ™À8ÖùÚŞò1J$62bcb4da-9a4a-42fc-b232-d0b20fc985bc
+m	java:S106"+Replace this use of System.out by a logger.(ëë¢Ø8ØùÚŞò1J$27c96df4-2eac-4659-b875-01783da54c82

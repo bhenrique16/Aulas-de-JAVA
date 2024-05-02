@@ -1,11 +1,11 @@
 
-E	java:S106	"+Replace this use of System.out by a logger.(µÏ…èùÿÿÿÿ
-@	java:S106
-"+Replace this use of System.out by a logger.(†•´ˆ
-@	java:S106"+Replace this use of System.out by a logger.(ØÛà‘
-@	java:S106"+Replace this use of System.out by a logger.(ØÛà‘
-E	java:S106"+Replace this use of System.out by a logger.(±â¯©þÿÿÿÿ
-/
-java:S3457"2nd argument is not used.(ø¤ã¡
-@	java:S106"+Replace this use of System.out by a logger.(ø¤ã¡
-E	java:S106"+Replace this use of System.out by a logger.(µ—¢½ûÿÿÿÿ
+k	java:S106
+"+Replace this use of System.out by a logger.(µÏ…èùÿÿÿÿJ$8c9dd3d9-5939-4da7-9424-cb4f3c70f283
+f	java:S106"+Replace this use of System.out by a logger.(†•´ˆJ$8b3e21a2-6b48-42b6-b34c-2495fe8e6209
+f	java:S106"+Replace this use of System.out by a logger.(ØÛà‘J$cf9e1484-4040-418a-84ba-00feca7d7cd2
+f	java:S106"+Replace this use of System.out by a logger.(ØÛà‘J$5a0c0d39-a1e2-4b21-9dee-8be1611511b5
+k	java:S106"+Replace this use of System.out by a logger.(±â¯©þÿÿÿÿJ$e71fa63b-3698-47fe-a149-19b8cd9acfef
+U
+java:S3457"2nd argument is not used.(ø¤ã¡J$0b3125a6-9fff-4b45-af2c-9bc8e8d42cbd
+f	java:S106"+Replace this use of System.out by a logger.(ø¤ã¡J$ccf48449-a6cf-45eb-a1c2-10e445c72c49
+k	java:S106"+Replace this use of System.out by a logger.(µ—¢½ûÿÿÿÿJ$d5b7c217-bae1-4877-9205-d10f3a8b0033
