@@ -36,8 +36,6 @@ N
 src/IfElse.java,e\4\e48d4aa3dad5913283e3df92f796ad54ab17ac08
 @
 src/IfElse2.java,1\5\15023dce07530b25aeda4c84c97cfb9b5afd6dd3
-N
-src/exercicios/SwitchCase.java,3\d\3d19443bc15f92539939fd868547dc12da0f76ed
 C
 src/SwitchCase.java,7\4\7432f0880f217e4706767b35489701bdc098f825
 I
@@ -56,3 +54,9 @@ O
 src/exercicios/Exercicio13.java,2\a\2aad40f681489f3ee4f3ec3013f0a5b91fe45cb5
 O
 src/exercicios/Exercicio14.java,5\9\59c37e1dcdd9445a0bdef6e4c585d939c85b0cc5
+O
+src/exercicios/Exercicio15.java,a\2\a2ed368b69c4119aaa7742b5c90d61a009be6809
+O
+src/exercicios/Exercicio16.java,8\6\866970c321a9aa072cd5db9cd188d07da20fc3dc
+>
+src/While.java,e\c\eca9e9249b89d2d317e8cb4672ee52e7a1549226
