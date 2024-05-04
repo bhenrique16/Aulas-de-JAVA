@@ -60,3 +60,7 @@ O
 src/exercicios/Exercicio16.java,8\6\866970c321a9aa072cd5db9cd188d07da20fc3dc
 >
 src/While.java,e\c\eca9e9249b89d2d317e8cb4672ee52e7a1549226
+E
+src/EstruturaFor.java,e\1\e1383c858b6ad277696e8c2297a30ea37fa9662c
+D
+src/Exercicio17.java,6\f\6f696b159a1742b1fe657948ea27c24b7933c38f
