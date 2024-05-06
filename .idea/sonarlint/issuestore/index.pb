@@ -62,5 +62,21 @@ O
 src/While.java,e\c\eca9e9249b89d2d317e8cb4672ee52e7a1549226
 E
 src/EstruturaFor.java,e\1\e1383c858b6ad277696e8c2297a30ea37fa9662c
-D
-src/Exercicio17.java,6\f\6f696b159a1742b1fe657948ea27c24b7933c38f
+O
+src/exercicios/Exercicio17.java,1\9\192726fa358a8b822dd2a1599a00033bfa73072f
+O
+src/exercicios/Exercicio18.java,6\e\6e3cd5179246420769a8e7c062ec0302c350b06c
+O
+src/exercicios/Exercicio19.java,9\5\953c7a6bbd500a52da11439e85620776ab23d494
+@
+src/DoWhile.java,1\f\1fea8828900d2d088cde1f81cbd51a8e63a61d4c
+@
+src/BitWise.java,9\8\989f471e5c19dbb77e42145ff2caf92424061970
+@
+src/Funcoes.java,0\a\0adef6ac20c0f49caf28155d3a237fb9f442f88a
+K
+src/ManipulacaoStrings.java,8\9\89a11b5e0335303eb43ece638e1d34fcdda361dd
+R
+"src/OrientadaObjetos/Triangle.java,e\d\ed936b66e55e5f0ff7a3699eea21ce32cf54b27b
+Z
+*src/OrientadaObjetos/OrientadaObjetos.java,7\5\756dcfd5a105264de2323e4506e9f510000539b2
