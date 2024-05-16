@@ -1,0 +1,10 @@
+
+‘
+java:S1104"NMake PI a static final constant or non-public and provide accessors if needed.(Ù„¬8Ò†½÷÷1J$58eece35-35ef-4fa2-8da6-adbba4cc3411
+k
+java:S1444"(Make this "public static PI" field final(Ù„¬8Ó†½÷÷1J$0512a570-39ab-4583-9c99-bff1dfe718e6
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(®À¹µùÿÿÿÿ8Ô†½÷÷1J$95663938-6663-4e80-8e2e-7bac36196fd7
+
+java:S3008"MRename this field "PI" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù„¬8Ö†½÷÷1J$c2752f9b-9141-4513-b3ea-aba18a4e9894
+‚
+java:S1118":Add a private constructor to hide the implicit public one.(›¥ØÚúÿÿÿÿ8Ù†½÷÷1J$b1445684-0ac9-4432-8109-68e3d5e7c508

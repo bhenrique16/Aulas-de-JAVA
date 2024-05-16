@@ -1,0 +1,18 @@
+
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ø”Û ûÿÿÿÿJ$0732c51e-5d2d-494a-a184-a61274da8277
+m
+java:S3457"%String contains no format specifiers.(Á¸÷šøÿÿÿÿ8õÍÄ÷÷1J$b4dd4a5f-cc48-4179-844a-f0eefcd70618
+r	java:S106"+Replace this use of System.out by a logger.(Á¸÷šøÿÿÿÿ8öÍÄ÷÷1J$fa48df51-7c5a-434c-93e4-864d99434316
+h
+java:S3457"%String contains no format specifiers.(¹óß“8öÍÄ÷÷1J$76648a7c-6128-40a8-8790-6352d67c08ed
+m	java:S106"+Replace this use of System.out by a logger.(¹óß“8öÍÄ÷÷1J$b53764ca-a8cc-4071-bf8a-f8272ddc0887
+m
+java:S3457"%String contains no format specifiers.(µÙ«½øÿÿÿÿ8÷ÍÄ÷÷1J$f4abd08c-961f-425b-8613-131650bd753a
+r	java:S106"+Replace this use of System.out by a logger.(µÙ«½øÿÿÿÿ8÷ÍÄ÷÷1J$1eb794a5-5f42-41e4-9005-b97e792bd9e3
+r	java:S106"+Replace this use of System.out by a logger.(” £Ëşÿÿÿÿ8÷ÍÄ÷÷1J$aa58bc98-872b-4866-93b7-4aae45b67163
+r	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8øÍÄ÷÷1J$eed07a90-522f-4b6b-8d5f-aa29e9acabd0
+h
+java:S3457"%String contains no format specifiers.(€÷…8øÍÄ÷÷1J$f27e1f2f-eb4e-4784-9bf6-7f803e55e638
+m	java:S106"+Replace this use of System.out by a logger.(€÷…8øÍÄ÷÷1J$f882bfd6-8314-4b86-b13e-048cbee14450
+r	java:S106#"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8ùÍÄ÷÷1J$15f76e9a-f7fc-4493-a3f0-b7723401ade0
+r	java:S106$"+Replace this use of System.out by a logger.(è¹¯ÿÿÿÿÿ8ùÍÄ÷÷1J$ffd1860c-cb8a-4593-b419-325b9e8a1f54
