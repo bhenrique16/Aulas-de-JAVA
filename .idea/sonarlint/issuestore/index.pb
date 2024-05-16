@@ -80,3 +80,5 @@ R
 "src/OrientadaObjetos/Triangle.java,e\d\ed936b66e55e5f0ff7a3699eea21ce32cf54b27b
 Z
 *src/OrientadaObjetos/OrientadaObjetos.java,7\5\756dcfd5a105264de2323e4506e9f510000539b2
+O
+src/exercicios/Exercicio20.java,a\f\af3ab862113532f58e3ac1cf75d41f90e355cf7f
