@@ -1,0 +1,11 @@
+
+
+java:S1104"VMake dolarPrice a static final constant or non-public and provide accessors if needed.(ç³ä¨øÿÿÿÿ8‡…Ö³û1J$f1eff1a9-a50b-4766-8de7-1fc0226d17c6
+œ
+java:S1104"YMake dolarQuantity a static final constant or non-public and provide accessors if needed.(Æ©¨¾8ˆ…Ö³û1J$5ac89e84-4198-421d-b5dd-fda75479080b
+’
+java:S1104"OMake TAX a static final constant or non-public and provide accessors if needed.(Ù½¥Õ8ˆ…Ö³û1J$bf1c1eeb-959a-4be9-9fbf-693cf3736e4e
+ğ
+java:S1598"¬This file "CurrencyConverter.java" should be located in "entities" directory, not in "C:\Users\bruni\OneDrive\Documentos\projetos\Java\Aulas-de-JAVA\src\CurrencyConverter".(×¾¡8Š…Ö³û1J$47d74e45-a8ee-4b6e-ab56-e39a3f57a358
+	java:S116"NRename this field "TAX" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù½¥Õ8”…Ö³û1J$acd3d520-4661-4c3d-b56f-346ed293632d
+i	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–Ê‹8Ï±×³û1

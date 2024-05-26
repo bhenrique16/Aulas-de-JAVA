@@ -1,0 +1,17 @@
+
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(â­Ï¤ıÿÿÿÿ8²†¹µû1J$a89cf743-83eb-435b-96d6-05509c5915b1
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(–—Şù8³†¹µû1J$c34dca79-cfcc-4c58-9a42-b38efd20396c
+f
+java:S1659"#Declare "media" on a separate line.(ÂªÚı8È†¹µû1J$9a88a5fe-1898-4611-9048-757ddf9e2a64
+m	java:S106"+Replace this use of System.out by a logger.(¬ç·ë8Ë†¹µû1J$b8520946-01aa-493e-bad9-b71fb2093e5f
+r	java:S106"+Replace this use of System.out by a logger.(ÃìÑ†úÿÿÿÿ8Ì†¹µû1J$3c7b372d-9b5e-437b-9aba-b15f2dad2185
+h
+java:S3457!"%String contains no format specifiers.(²óŠ8Ì”Áµû1J$cc379397-c3af-427e-88c3-ec3a3f1dafb9
+m	java:S106!"+Replace this use of System.out by a logger.(²óŠ8Å´¾µû1J$6354439d-63bb-41f8-a33b-3ef8d39f5a73
+r	java:S106$"+Replace this use of System.out by a logger.(ƒßğÿÿÿÿÿ8Î¥Ãµû1J$6bed9d99-a3ab-45a2-b58f-57af5d72b824
+™
+java:S3457("Q%n should be used in place of \n to produce the platform-specific line separator.(È²ª¥ıÿÿÿÿ8ã´Åµû1J$3e800902-39c9-4686-b4a9-115c6e6dd34a
+r	java:S106("+Replace this use of System.out by a logger.(È²ª¥ıÿÿÿÿ8õ…Äµû1J$50acb4dc-8d5b-485a-836f-8c19c5b93001
+”
+java:S3457)"Q%n should be used in place of \n to produce the platform-specific line separator.(¨ñç8ã±Çµû1J$75d07dbb-d876-4621-89fe-9d8ce98a95d4
+m	java:S106)"+Replace this use of System.out by a logger.(¨ñç8ã´Åµû1J$c4b5c63f-8e8c-4584-a0fb-1d53c2af934a

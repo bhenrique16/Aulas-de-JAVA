@@ -1,8 +1,8 @@
 
-m
-java:S1104"PMake name a static final constant or non-public and provide accessors if needed.( þÍ¾8ØÑÃ÷÷1
-y
-java:S1104"WMake grossSalary a static final constant or non-public and provide accessors if needed.(žÆ£Øþÿÿÿÿ8ØÑÃ÷÷1
-q
-java:S1104"OMake tax a static final constant or non-public and provide accessors if needed.(Á¤Ò…ùÿÿÿÿ8ØÑÃ÷÷1
-š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ø”Û ûÿÿÿÿJ$7dcf3443-2cd5-4aee-ae90-e3c6777aa858
+“
+java:S1104"PMake name a static final constant or non-public and provide accessors if needed.( þÍ¾8ØÑÃ÷÷1J$8c8ebd8a-bf72-4559-9527-d5f1961b8b91
+Ÿ
+java:S1104"WMake grossSalary a static final constant or non-public and provide accessors if needed.(žÆ£Øþÿÿÿÿ8ØÑÃ÷÷1J$41fb9bc6-041b-4f9c-b2ed-a610ea6cb682
+—
+java:S1104"OMake tax a static final constant or non-public and provide accessors if needed.(Á¤Ò…ùÿÿÿÿ8ØÑÃ÷÷1J$2b4cc925-0083-49aa-880f-9414a12ef66c
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ø”Û ûÿÿÿÿJ$3da2a4df-480b-4973-b6a1-6abdb67d08e4
