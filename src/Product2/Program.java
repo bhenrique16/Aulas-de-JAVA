@@ -1,9 +1,7 @@
-
 package src.Product2;
 
 import java.util.Locale;
 import java.util.Scanner;
-
 
 public class Program {
 
@@ -35,6 +33,5 @@ public class Program {
         System.out.println();
         System.out.println("Updated data: " + product);
         sc.close();
-
     }
 }

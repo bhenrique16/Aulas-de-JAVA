@@ -6,20 +6,21 @@ public class Product2 {
     private double price;
     private int quantity;
 
-    public Product(String name, double price, int quantity) {
+    // Construtor com todos os parâmetros
+    public Product2(String name, double price, int quantity) {
         this.name = name;
         this.price = price;
         this.quantity = quantity;
-
     }
-    //Sobrecarga
-    public Product(String name, double price) {
+
+    // Construtor com sobrecarga
+    public Product2(String name, double price) {
         this.name = name;
         this.price = price;
-
+        this.quantity = 0; // inicializa a quantidade como 0
     }
 
-    public void setName(String name){
+    public void setName(String name) {
         this.name = name;
     }
 
@@ -35,6 +36,7 @@ public class Product2 {
         this.quantity -= quantity;
     }
 
+    @Override
     public String toString() {
         return name
             + ", $ "
